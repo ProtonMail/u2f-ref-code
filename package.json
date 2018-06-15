@@ -1,0 +1,21 @@
+{
+  "name": "u2f-ref-code",
+  "version": "1.0.0",
+  "description": "This code implements the FIDO U2F specifications being developed at http://fidoalliance.org/.  This code is intended as a reference and resource for developers who are interested in exploring U2F.  The code consists of the following components:",
+  "main": "./u2f-gae-demo/war/js/u2f-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProtonMail/u2f-ref-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProtonMail/u2f-ref-code/issues"
+  },
+  "homepage": "https://github.com/ProtonMail/u2f-ref-code#readme",
+  "devDependencies": {}
+}
